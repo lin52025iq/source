@@ -1,15 +1,15 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.12",
   "notes": "Note: macOS builds are not signed. To run the app, after moving it to Applications folder, run: `xattr -c /Applications/tauri-app.app`",
-  "pub_date": "2025-06-16T06:54:12.749Z",
+  "pub_date": "2025-06-16T08:10:53.575Z",
   "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlNaRHZBZ1hzL0JsNjNYRytXcEQzNjY1ZVVzcEFDVHJPNXJIaXBrS1VnTTFkQU16QzVNZXVZMTN4VWV2bkZFM0JuR1ZYbGxGcGNJYTV6T2VnZmszTmJnWDUxY3hhaXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwMDU2NDE3CWZpbGU6dGF1cmktYXBwLmFwcC50YXIuZ3oKdlhnNUhkSFg4UXpwSkxycEVvMjVaUU9naGpLM1RMQ0pUdXZwbFVIVytxTXpneDNqRnVCR3FLVDdBZ1p3cG1nK1M1bElzeDBuSmFVYWZqd2dYemUxQkE9PQo=",
-      "url": "https://github.com/lin52025iq/tauri-app/releases/download/v1.0.10/tauri-app_aarch64.app.tar.gz"
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlNaRHZBZ1hzL0Fkc2tNY3RFbUUvZy9UUm42UWlTYWZLMkx3cCttVlVMb1dvVnVKOTJ5NEJhV2JnY2daNTNaYkpYYWwwdDhpbkJPdVdIN01qaWFIL1d5dk5OSFRVVXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwMDYxMzkwCWZpbGU6dGF1cmktYXBwLmFwcC50YXIuZ3oKa0dOZklsaDQ4aDFMc1kxVVprK0hWNkdyWmhFaEJ1YnJaSkQ5OG0wRHlMektVTTN5Q2hCSTFCTTNTcWl3dWpUcWpiMk40a3JUMy9YWURuMjl2aUdZQVE9PQo=",
+      "url": "https://github.com/lin52025iq/tauri-app/releases/download/v1.0.12/tauri-app_x64.app.tar.gz"
     },
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlNaRHZBZ1hzL0dvMDZIcWVXZHFCc29rT3pjbkZUZFVNZlVCT2YySmZuV1JuSEx4eUhBNmthNERGRnNKV0FSdGJDZ2RTcWhpcXkwM0dZa0R0c3dOWVlFcU5WT2ZjTEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwMDU2ODQ1CWZpbGU6dGF1cmktYXBwXzEuMC4xMF9hbWQ2NC5BcHBJbWFnZQpPWXdBN0g0MitVaWtoYWZnalpXZG1SMXRxWkQ1VVVIR01qVCtwMHZrWVpldFhzV3l5eE0zcEVLZnpiL3hscGltOTEyR0k5QTczM1FHSUZ3WFZaN3ZEUT09Cg==",
-      "url": "https://github.com/lin52025iq/tauri-app/releases/download/v1.0.10/tauri-app_1.0.10_amd64.AppImage"
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlNaRHZBZ1hzL05VRWx4b2l6TVpnQ1RMWlJ6UmpjWWtweWY4bUZrVE1HYXZSd3dicFp3SjdDZ2RrRC9veDIzSjhoaGRjeUwycE03dklyN3V5Wi9Odk9oU1JIU1VXQmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwMDYxNDQ5CWZpbGU6dGF1cmktYXBwLmFwcC50YXIuZ3oKM1FwTm84N0R5STFOdGo4d2d0dGtaYXZwQktOTCtubEcrL3psUWdOMXFXajVNaExTdWF4OUNQRTkvanBUcDZ2aG1mdE9INU9mdS9YYWZ6c0NBaTRvQ1E9PQo=",
+      "url": "https://github.com/lin52025iq/tauri-app/releases/download/v1.0.12/tauri-app_aarch64.app.tar.gz"
     }
   }
 }
